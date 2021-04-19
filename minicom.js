@@ -54,7 +54,7 @@ const argV = yArgs
      .option('pb', {
         alias: 'bits',
         describe: 'bits (7/8)',
-		default: '8',
+		default: 8,
         type: 'number',
     })
    .alias('version', 'v')
