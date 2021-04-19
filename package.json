@@ -1,0 +1,19 @@
+{
+  "name": "miniterm",
+  "version": "1.0.0",
+  "description": "Serial port terminal emulator",
+  "main": "minicom.js",
+  "dependencies": {
+    "fs": "0.0.1-security",
+    "node-gyp": "^8.0.0",
+    "readline": "^1.3.0",
+    "serialport": "^9.0.7",
+    "yargs": "^16.2.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "mgmino",
+  "license": "ISC"
+}
